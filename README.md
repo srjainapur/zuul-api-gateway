@@ -6,8 +6,9 @@ Start the applications in the following order
 4. employee-address
 
 Test URL
-http://localhost:8099/employee/emp?name=Route%20Filterrrrrrrrrrrrrrrrrrrrr
+http://localhost:8099/employee/emp?name=RouteFilter
 
+Check the console to see the log statements
 
 Routing in an integral part of a microservice architecture. For example, / may be mapped to your web application, /api/users is mapped to the user service and /api/shop is mapped to the shop service. Zuul is a JVM based router and server side load balancer by Netflix.
 
