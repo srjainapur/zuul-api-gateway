@@ -1,3 +1,10 @@
+To test this example.
+Start the applications in the following order
+1. service-discovery
+2. zuul-api-gateway
+3. employee-management
+4. employee-address
+
 Test URL
 http://localhost:8099/employee/emp?name=Route%20Filterrrrrrrrrrrrrrrrrrrrr
 
